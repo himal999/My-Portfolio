@@ -788,7 +788,7 @@ section {
 
 @media screen and (max-width: 600px) {
   body {
-    height: 130vh;
+    height: 200vh !important;
   }
   .header-shape-container {
     width: 250px;
@@ -833,7 +833,7 @@ section {
 
 @media screen and (max-width: 420px) {
   body {
-    height: 130vh;
+    height: 200vh;
   }
   .right-con {
     margin-top: 4rem;
