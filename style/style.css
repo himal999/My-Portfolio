@@ -837,6 +837,7 @@ section {
   }
   .right-con {
     margin-top: 4rem;
+    z-index: 2;
   }
   .hero-img img {
     width: 100%;
